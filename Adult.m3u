@@ -1,1 +1,55 @@
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/e0a7e2d852d445f4ba5051064b0e0b6e-hd.png"",Jasmin TV
+rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="24/7 ADULT IPTV",Jasmin TV | SD 
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://nonprofitquarterly.org/wp-content/uploads/2016/04/Private-771x484.jpgg" tvg-country="INT" tvg-url="" group-title="XXX",Private TV
+http://50.7.220.130:8081/private_hd/index.m3u8?wmsAuthSign=74a532b175d48db70c14651689719096-1596924604-17i821i222i981
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HustlerTV.svg/1200px-HustlerTV.svg.png" tvg-country="INT" tvg-url="" group-title="XXX",Hustler TV
+http://50.7.220.130:8081/hustlerhd/index.m3u8?wmsAuthSign=15733cceccb00e232437c7bb2a2e6ddb-1596924108-17i821i222i981
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.ebayimg.com/images/g/J4wAAOSwAwRZpmeo/s-l1600.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Playboy TV
+http://50.7.220.130/playboy/index.m3u8?wmsAuthSign=8549eacd4cc6aa5a9738de6b9da92f87-1596923687-17i821i222i981
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo=https://image.freepik.com/free-vector/candy-logo_1438-537.jpg" tvg-country="INT" tvg-url="" group-title="XXX",Candy TV
+http://50.7.220.130:8081/candy/index.m3u8?wmsAuthSign=7ca525009ed29b2411ee0d9b215de2f0-1596923423-17i821i222i981
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"", Visit X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.naijaloaded.com.ng/wp-content/uploads/2017/07/adultsOnly.png"", Visit X TV
+https://stream.visit-x.tv/vxtv/live/chunklist_w1665254410.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BMJDW7r.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BMJDW7r.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/iNmHyo2.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xfIelNY.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rzZYfkN.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/bp1qW74.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6LqaFuD.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/t3LXxuv.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uosNpWk.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6dgyIz0.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/acW4Fe9.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/S2kSwfv.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EvqysKS.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/5WSwI1A.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3nOaNzu.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k85bqov.png" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Threesome
+http://live.redtraffic.xyz/threesome.m3u8

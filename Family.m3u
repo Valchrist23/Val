@@ -1,10 +1,20 @@
 
-#EXTM3U
+﻿#EXTM3U
  
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.5hQwvx8mDoId8mfiBSNL8AHaEo&pid=Api&P=0&w=257&h=161" group-title="Demo",FishTank
 https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/mid/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis TV
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal4televisa.png" group-title="BC",TV 4 Mexicali
+https://youtu.be/yVQbhl78nWs
+
+#EXTINF:-1 tvg-logo="http://img4.wikia.nocookie.net/__cb20140416005326/logopedia/images/2/26/Logotipo_TelevisaTijuana.png" group-title="BC",Televisa Tijuana
+https://youtu.be/wm_-uPsRq84
+
+#EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis
+https://video-weaver.lhr03.hls.ttvnw.net/v1/playlist/CuQE7ABc2KUyZqq10IKxsVCHVoFJ3QNb5l38GbAjRbFR-R_DXNL9FQFBEufy_FMWO9-u583K4L7lTsZVgOlB2fgqY3BJkq0-B-AJHpGKc0UtqaSY4DheOYxuLH823HuWbL39h_dkWitemgrb36SgCm1cf6XY3Ktm4EK64K7q2BKg2sQwqCKC0ESq22Svg1Jy00XzfWbAKHJRd8843uGBsjqlKIcmfHUXjvUXMaQo9gkkxiwKNS0M1Ki_k19otEKMrwmb_DroHQ14aOpbYrI0DKlD4xitkmuG_1vPQKHIo17yhjVsqlpjw76S4lYOy4vj4xVEi1-WZ89qsthBoqTVLbUIXtrmIf4w38edmKS9tq9hdL5CTMk0W_B-grSB2rzPrW35cwF2F-xA80j-mMDx_8XEp1lIvqYiexw7PN8rZCIrYC15U3bmbAb8ZKlVu_Z-wXOgLkASQOl6oXpfea2X8u7U-fDCeb8VaQItddzoFE7Vt2FlFEOAmN4Aq7SwWVhLqcK6PaBLgSSzBFGpTKXd7ZcfCZwITmEJMztVxRZC3wOpP44DeBmoW4tNHnRPBAynsIHx9L-NaBkxx2C49JRXgcDimRgPGYQR5eO-pm4Xsw-jxpRqtDSG39uKuPTKaKN-taVSBWYV60BRGzb6DpQaMeNzTVeV5zS6SCVWrrrZ7CT4v6XidmRCBvBxyJ6tKIkUI5QIACIGTViZlgtpJ89hf9djk6_xhBcxUcfKgptJuq7rV4fGwbohnfS1rrLSMe_f7F0I_pvvDtUHiSwS8u9KHWHrcNxi75Ab4Xc1x7VxKtl4ujW5xBCQEhDjLgtBTAB711Hlt6b6t_CNGgw-wXHcQnGDW7wyQ-Y.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="US",Harley Davidson
+https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Ticavisi%C3%B3n-en-vivo-Online.png" group-title="LAT",Ticavision
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
@@ -13,11 +23,13 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MX",Azteca 7 
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg" group-title="CO",TDI
 https://streamyes.alsolnet.com/tdicolombia/live/chunklist_w114107597.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Aqk-8qwAEas/hqdefault.jpg" group-title="MX",Canal 5 XHGC
+http://23.237.22.2:25461/live/IPTVDNS.0507828/HCvMMO5E9z7609/3244.m3u8?token=GENYUUEOGwkbDwYGVQcAAgVQVgNZAFgAAlADVFFRUQIBBAkDVlIBAFsbGRZER0pWAlhqXVxDWwMDAlIZFxARVBE+WVQQXBsCDAoFDAMRFBEXXFhRGltRHBNGD1EXX0AAU1cDEh5EXEtNXEdaVl9nVwZDXFddQ1teRFoKGRcKDG4HBF1RXAIbCRsJFxgVWktDQQ9bQVQNTRJTXxJHVBEHE1lDAQIFVhsfG1paQVlHSkpBDxd5YENNElROElBbFgteDUMKEl9VTAsbFRddRGxKVhBBR1FZDARCEwxEBBdJQFwCGW9TXQhXVlpNXFtZQBoJQQAFFhRDDF9fXxJaRzoSWAdDChIAUAwKABtI
 
 #EXTINF:-1 tvg-logo="https://img.radio.cz/nOiE12MUmEBGj60IBxzDY2fWfCY=/fit-in/1800x1800/1579686448__pictures/loga/canal22_logo.jpg" group-title="MX",Canal 22
 https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w1740054977_b878000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjAgNTo0NTo1MyBBTSZoYXNoX3ZhbHVlPWxhUHNJOVk1NCszWk13RzRUTDFCeXc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
@@ -31,7 +43,7 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 http://ul.cdn946.net:8080/hls/th9y8suwvc.m3u8?s=sl1klxKDsu3vZ1UvdmBXWQ&e=1597215762
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="LAT",a+
-http://roedor.xyz/regiomx20x/tp.php?c=2316&p=3&k=srregio&f=.m3u8%20%20
+https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://godish.com/wp-content/uploads/channel-logos/cgtne.png" group-title="Esp",CGTN
 http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -40,13 +52,19 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 https://livestartover-i.akamaized.net/antena3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",TVE
-http://roedor.xyz/regiomx20x/tp.php?c=198&p=3&k=srregio&f=.m3u8%20
+https://hlsliveamdgl7-lh.akamaihd.net/hlslive_1@134665/master.m3u8
+
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",RTVE
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@120903/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ES",StarTVE
-http://roedor.xyz/regiomx20x/tp.php?c=2375&p=3&k=srregio&f=.m3u8%20
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="ES",24 Horas 
+https://rtvelivestream-lvlt.rtve.es/24h_dvr_1000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Logo-ForoTV-2016.png/200px-Logo-ForoTV-2016.png" group-title="MX",Foro TV
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
@@ -58,7 +76,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 http://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="MX",adn 40
-http://roedor.xyz/regiomx20x/tp.php?c=184&p=3&k=srregio&f=.m3u8%20%20
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Antiguo_logo_de_Canal_Once_%28once_TV%29.png/186px-Antiguo_logo_de_Canal_Once_%28once_TV%29.png" , OnceTV 
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
@@ -78,15 +96,13 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ozinKJC.png" group-title="CHILE",El Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAyEhvPBIoaA5-SoS7arpPnK1B1rlQomNcnrdA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Cooking",Tastemade
-https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
-http://roedor.xyz/regiomx20x/tp.php?c=2145&p=3&k=srregio&f=.m3u8%20
 
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cooking",El Gourmet
-http://roedor.xyz/regiomx20x/tp.php?c=74&p=3&k=srregio&f=.m3u8
+http://23.237.22.122:8577/live/IPTVDNS.0507828/HCvMMO5E9z7609/3206.m3u8?token=GENYUUEOGwkbCVdVBwQOClIMBAQNUlYDAgVXDAxWAARUVQVSUFQOAVsbGRZER0pWAlhqXVxDWwMDBlAZFxARVBE+WVQQXBsCDAoFDAMRFBEXXFhRGltRHBNGD1EXX0ADUFcDBhBKG1ZBTVBGWVJUbAdQQ11bBEMKX0MKWRlHDV88BVVdUwhdEQMbBRYbEVFAExcPWk0NDRwTVA9BRwQWVEFbEgUCVwwRFRtWW0JdTEEaFw8WdTlDHBNTHkFQCxFYDA8SChALCkYBGxkWXkBnQQZGQUZdAAxVQxRcFwRHThMOAEhvUQlXXVxaQV1YXUsRWRcABBpNQ11eWA9BWhc9QQoFEgoQVwkHAAsXSQ==
 
 #EXTINF:-1 tvg-logo="https://www.outdoorcooking.com/skin/frontend/outdoorcooking/default/images/oc-logo-simp.png" group-title="Cookingy",Out Door Cooking
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
@@ -100,8 +116,14 @@ https://a.jsrdn.com/broadcast/060753d37e/+0000/low/c.m3u8
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22718/gusto-tv/logo_20191213_004422.png" group-title="Cooking",gusto
 https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Cooking",Pluto Cocina
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72d1521a-198f-4929-9ed3-4f6fe175d21b&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="http://static.pluto.tv/channels/5938888cd045ffce74cf9048/logo.png" group-title="24/7 PLUTO TV",FrontDoor
 https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://www.wnypapers.com/content/images/110-Ent/HK-logo-new.jpg" group-title="Cooking",Hells Kitchen
+https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQIKcmA.png" group-title="CHILE",Emol TV
 https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
@@ -112,14 +134,19 @@ http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nKdVqnU.png" group-title="ARGENTINA",Canal 4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-T6GUy9Xq7dk/XHqhBG7oE1I/AAAAAAAAHcI/JthcJF6_nZ8VDmiy0QGGXaVKrsgDsBvogCLcBGAs/s1600/%25C3%2593rbita%2BTV%2BCanal%2B25%2Bhd.png" group-title="AR",Orbita TV
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/Unicable2018.png/revision/latest/scale-to-width-down/220?cb=20181023001628" group-title="MEX",Unicable
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="US",FX
+http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.2f51IUp3uTY20v-0oZtUfQAAAA&pid=Api&P=0&w=300&h=300" group-title="Info",TV UNAM
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/t-logo-png-6.png" group-title="B",Travle HD
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/PBS_Logo_PBS.png/revision/latest?cb=20121223143155" group-title="US",PBS
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvwise.co.uk/wp-content/uploads/2016/05/Channel-5-New-Logo-300x300.jpg" group-title="UK",Channel 5
+http://178.132.3.162:88/Channel_5/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
@@ -146,7 +173,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.s5x6UOZ4lO-yWBb1xA85qQAAAA&pid=Api&P=0&w=234&h=177" group-title="ART",Bob Ross Channel
-https://0167f86aa97a480aa970acbab674bd42.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_BobRoss/3d3c7fe4-1b0f-4203-8c5a-60ab403fe1dd/1.m3u8
+https://0167f86aa97a480aa970acbab674bd42.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_BobRoss/46c35331-f663-4fa8-a2c6-0b533e04d62e/3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.canalipe.tv/sites/default/themes/bootstrap_drupal/logo.png" group-title="ES",IPE 
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
@@ -154,21 +181,45 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgRDyaB.png" group-title="CANADA",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.irishnews.com/picturesarchive/irishnews/irishnews/2016/03/24/163307311-95ee208e-c21f-43f5-8c1d-9b928e0c85a1.jpg" group-title="MX",UTV
+https://v2.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcH0JjZ.png" group-title="ANIME",LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-logo="http://www.vector-logo.net/logo_preview/eps/l/Locomotion.png" group-title="ANIME",LOCOMOTION
+http://www.toonxtv.net/hls/loco_ch/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/04/retro_crush.jpg" group-title="ANIME",Retro Crush
-https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/60739b67-fe1f-4388-9789-4a6ed5a53d47/3.m3u8
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/7cf7a093-f906-49ee-b392-27de55787a74/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="INDO",Aniplus (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d2/4b/b0/d24bb0b8b62cd58ad6d1d99b720d5e54.jpg" group-title="ANIME",Anime All Day
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72d1521a-198f-4929-9ed3-4f6fe175d21b&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/9e/9eade70e9e2ce547623cb2ed29170b1d.jpeg" group-title="ANIME",Anime Latino
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=5e9beaf8-7fad-4454-9cc6-676b48311488&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=32.4041&deviceLon=-116.8198&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2020/05/Pluto-TV-anime-accion-800x360.jpg" group-title="ANIME",Anime Accion
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e382aac4-0de8-4051-b8b1-ff7d32c3709a&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=32.4041&deviceLon=-116.8198&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5be4c6311843b56328bce619/featuredImage.jpg" group-title="Anime",Anime All Ages
+https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?terminate=false&deviceId=bc4e1e5c-a988-4314-9cb5-d50d142aefe0&deviceVersion=79.0.3945.130&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Chrome&sid=1d807765-0025-4bd1-9065-1e003c89ac5f&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.oXKcWpXr-Ff4Z_BkUiMIowHaDa&pid=Api&P=0&w=360&h=167" group-title="SpecialS",Totally Turtles
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1b6f7d56-8787-4e86-99ad-8a3c6ba2c6e0&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png" group-title="MX",Cartoon Network
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" tvg-country="US" tvg-url="" group-title="",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/03/Font-of-the-Nickelodeon-Logo.jpg" group-title="USA",Nickelodeon
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_C8Dpr9s51ug/TAlqb5Ha4aI/AAAAAAAABaU/Of3TKoGmEnQ/s1600/nickla.png" group-title="LAT",Nickelodeon Latino
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=ef3ebd75-05aa-4f7e-b1bf-250819c2c37e&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=25.8295&deviceLon=-80.2927&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
 #EXTINF:-1 tvg-name="Buzzr" tvg-id="buzzr.com" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png",Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_7.m3u8
+https://dai.google.com/linear/hls/pa/event/wFZ1ufQ8ToaSdPgGtbBbpw/stream/68873853-8dcd-4787-b4dc-9b7859313841:ATL/variant/b265be30fad3165ba2f9d822a5abc463/bandwidth/3000140.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fEjPBk3.png" group-title="US",Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
@@ -188,35 +239,57 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/ACSszfG6TOAud_r5AZ8zRHuJNTk2sU0_PJXsf0RCMQ=s900-mo-c-c0xffffffff-rj-k-no",TeleUno TV
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2019/05/pu%C3%B1al-tv-300x194.png",Puñal TV
+#EXTINF:-1 tvg-logo="http://www.dantv.tv/images/dan-001.jpg",Dan TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22829/unidentified/logo_20200408_024027.png" group-title="UFO",Unidentified
 https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.attackfromplanetb.com/wp-content/uploads/2017/03/cometmarch.png?resize=640%2C360" group-title="UFO",Comet TV
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.attackfromplanetb.com/wp-content/uploads/2017/03/cometmarch.png?resize=640%2C360" group-title="SYFY",Comet TV
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.collider.com/wp-content/uploads/2020/06/unsolved-mysteries-netflix-logo-slice-1.jpg" group-title="Without category",Unsolved Mysteries
+#EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_em7nrwbm/def_height/838/def_width/1600/version/100012/type/2/q/100" group-title="Documentary",Magellan TV
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-iTkqPnbTS4w/AAAAAAAAAAI/AAAAAAAAAAA/I8LL8kiBk0Y/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Without category", So...Real
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.3h-jCaMLpb9BAbGUgqIBPgAAAA&pid=Api&P=0&w=418&h=172" group-title="Documentary",Outside TV
+https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-iTkqPnbTS4w/AAAAAAAAAAI/AAAAAAAAAAA/I8LL8kiBk0Y/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Documentary", So...Real
 https://e982c1e590144972a3c79888837ecd36.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SoReal/28a0de89-376d-4402-a207-1e3e621ef63c/2.m3u8
 
 #EXTINF:-1 tvg-logo="http://sbgi.net/wp-content/uploads/2019/03/Stirr_Logo_black.png" group-title="Without category", Stirr City
+https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/prPDVF5dfF0/maxresdefault.jpg" group-title="US",Futurism
+https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f2/MovieMix.png/revision/latest?cb=20130503215946" group-title="US", Movie Mix
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.qT4hCfUdUbr6_EftlU2zCwHaFO&pid=Api&P=0&w=300&h=300" group-title="US",My NetworkTV
+http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://tibs2.threeifbyspace.net/wp-content/uploads/2017/05/SYFY-Horizontal-Logo_Color.jpg" group-title="USA",Sci-Fi
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=72d1521a-198f-4929-9ed3-4f6fe175d21b&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jNoOxxz.png" group-title="USA",Popular Science
+http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cine-house.com/wp-content/uploads/logo.png" group-title="Movies",CineHouse
 
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.7lxkwbzDHpx_LkAbjHWh0wHaE-&pid=Api&P=0&w=282&h=191" group-title="Wihtout Category", Con TV
-https://a.jsrdn.com/broadcast/44hgsuu7/playlistR432p.m3u8
+https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.jSazXZxZ0Dr3o8w-06R_FgHaEL&pid=Api&P=0&w=327&h=185" tvg-country="US" tvg-url="Stirr Fit" group-title="Fitness",Stirr Fit
+https://dai.google.com/linear/hls/event/ZidoyK28TXyMRTZU7rFuEQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png",Channel 7
 http://radio.7chan.org:8000/CH7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png" group-title="Movies", 13MAX | HD
 http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="MX",AXN
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png", Canal 26 Argentina
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
@@ -244,65 +317,65 @@ http://74.108.36.101:1935/telenovisa43/telenovisa43/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H3jMiCj.png" group-title="CHILE",Pintana TV
 http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="USA",Boomerang
-https://chromecast.cvattv.com.ar//live/live/Boomerang/verimatrix_rotating_FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.JUjheYBbbO2gLMKAqbS4OQHaDL&pid=Api&P=0&w=410&h=177", FOX
+https://u86715.cdn884.net:8443/hls/esoncv2554uj4x.m3u8?s=bVLfOLhsftKObIA6OFZnnw&e=1597438386
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Iree4Y7.png" group-title="UK",Syfy (New!)
-http://84.22.33.254/unicast.scifi/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png", FXM
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LecvKzR.png" group-title="USA",MGM Sci-Fi
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png", Sony
+http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png", Warner
+http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jNoOxxz.png" group-title="USA",Popular Science
-http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC 
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="MEXICO", TLC
-https://edge-live12-sl.cvattv.com.ar//live/c2live/TLC/verimatrix_rotating_FTA/TLC-video=530000-audio_AACL_spa_144800_51=144800-44089842.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="USA",TMZ
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png" group-title="MEX",TNT 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live 
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/640px-2014_Disney_Channel_logo.svg.png" group-title="Global", Disney
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cc/b8/eb/ccb8eb3f8769444b78f1425e557b3aa4.png" group-title="Sport",EDGE Extreme
-https://edgesports-plex.amagi.tv/amRdirect/us_privacy=1---&did=54c6b170-133e-5583-bff6-c58779aac099&dnt=0&X-Plex-Token=5AX_7q6aB9UovVz7CxdT&channelId=5eea71d45252710041e0ccb9/hls/amagi_hls_data_plexAAAAA-edgesports-plex/CDN/1280x720_2890800/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.c9jaWFU0gDtj8-sqBY6v8AHaHa&pid=Api&P=0&w=300&h=300" group-title="Drink", Drink TV  
+#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="" group-title="",CBS
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/KTLA5.png" group-title="US",KTLA
 https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="US" CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="", TLC
+https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="USA",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O16gJHS.png" group-title="MEX",TNT 
+https://ul.cdn946.net:8443/hls/bt6z9s12bw6j2.m3u8?s=13SQa0ug5P9nyn9v2DYdAg&e=1597438268
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7LXT3zf.png" group-title="USA",ET Live 
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2018/08/dustx-logo.jpg?w=1000&h=563&crop=1" group-title="Global", Dustx
+https://dust.sinclair.wurl.com/manifest/1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/cc/b8/eb/ccb8eb3f8769444b78f1425e557b3aa4.png" group-title="Sport",EDGE Extreme
+https://edgesports-plex.amagi.tv/amRdirect/us_privacy=1---&did=54c6b170-133e-5583-bff6-c58779aac099&dnt=0&X-Plex-Token=5AX_7q6aB9UovVz7CxdT&channelId=5eea71d45252710041e0ccb9/hls/amagi_hls_data_plexAAAAA-edgesports-plex/CDN/1280x720_2890800/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/tvpedia/images/9/92/Sky_Movies_Sci_Fi_and_Horror.png/revision/latest?cb=20160104133923&path-prefix=ru" group-title="UK",Cinema SCI-FI
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="",AKC TV
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aKGHANUa6pQ/maxresdefault.jpg" group-title="US",NBC 
-http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e9bQAiy.png" group-title="USA",Sidewalks
 https://30a-tv.com/sidewalks.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fd/H2more2history.png/revision/latest?cb=20150801195220" group-title="Without category", History2
+http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="MX",COMEDY CENTRAL
-http://roedor.xyz/regiomx20x/tp.php?c=341&p=3&k=srregio&f=.m3u8%20
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=1b6f7d56-8787-4e86-99ad-8a3c6ba2c6e0&deviceId=ef125275-5289-4861-96a9-877410af3736&deviceVersion=69.0.0.2990&appVersion=5.6.0-05e6d11bfce7210bc262d7e9f2a96fc738b8ad86&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://atomicfangirl.files.wordpress.com/2015/08/258671logo.jpg" group-title="US",ComedyDynamics
 https://a.jsrdn.com/broadcast/5Gt2c8lsw/CDYN.stream_360p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/t8ZCTXN.jpg" group-title="",Titanic TV
 https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
-
-#EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" tvg-country="US" tvg-url="" group-title="",CBS
-http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" tvg-country="Lat" tvg-url="" group-title="Local",Telesur Costarica | 
 http://k3.usastreams.com/telesur/telesur/chunklist_w1432177556.m3u8
@@ -316,13 +389,6 @@ https://player-api.new.livestream.com/accounts/25082096/events/7376073/live.m3u8
 #EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/super-tv-55-300x169.jpg", Super TV55
 http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.JUjheYBbbO2gLMKAqbS4OQHaDL&pid=Api&P=0&w=410&h=177", FOX
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png", FXM
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png", Sony
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/piweDaK.jpg" tvg-country="US" tvg-url="" group-title="",Xcorps TV
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
@@ -334,9 +400,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1
 
 #EXTINF:-1, tvg-logo="https://tse1.mm.bing.net/th?id=OIP.pe9R5K1j-uuFGRsHwWrtEgAAAA&pid=Api&P=0&w=300&h=300" group-title="Canales Miscelaneos", Holvoet
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1, tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="Canales Miscelaneos", Miami TV 
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w823630935_b2592000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Fbzbq1y.png" group-title="USA",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
@@ -362,6 +425,9 @@ https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/09/pop-logo.jpg" tvg-country="US" tvg-url="" group-title="",Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/0fIfzW1.jpg" tvg-country="PH" tvg-url="" group-title="",Pop Kids
+https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/0fIfzW1.jpg" tvg-country="PH" tvg-url="" group-title="",Pop Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
 
@@ -378,7 +444,6 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" group-title="24/7 PLUTO TV",Forensic Files
 http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FBr6UAw.png" group-title="USA PUBLIC",Local Now (New!)
 https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
@@ -407,12 +472,11 @@ http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="General",IGN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/561c5f613286e48904fb2677/featuredImage.jpg" group-title="General",IGN
 https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=54c6b170-133e-5583-bff6-c58779aac099&dnt=0&X-Plex-Token=5AX_7q6aB9UovVz7CxdT&channelId=5eea605474085f0040ddc77c/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/1280x720_2855600/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="24/7 PLUTO TV",Eye Candy
-https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-DistoTV/dbde8c4e-6756-4b17-aa62-46ceabcc3082/3.m3u8
+https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-DistoTV/ffe51de5-d385-40fc-b848-6dd936610a2e/1.m3u8
 
 #EXTINF:-1 tvg-id="VH1 - Eastern Feed-US" tvg-name="VH1 - Eastern Feed-US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" tvg-country="US" tvg-url="" group-title="",VH1
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
@@ -459,6 +523,9 @@ http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" group-title="24/7 PLUTO TV",Flicks of Fury
 https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Gravitas-Movies-logo.png?ssl=1" group-title="US",Gravitas Movies
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
+
 #EXTINF:-1, Movies4 24/7
 https://www.youtube.com/watch?v=6j4KVfAlykA
 #EXTINF:-1, Movies5 24/7
@@ -482,9 +549,15 @@ http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Asia", HBO Asia 
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.AIRvqXxbstGBA7Eb2P6cDAHaFj&pid=Api&P=0&w=254&h=191" group-title="Sports",ESPN
+http://185.59.223.135/espn/index.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/a/a2/Fox-sports-news-hero.png/revision/latest?cb=20160621162353" group-title="Sports",FOX Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/Color-WWE-logo.jpg" group-title="Sports",WWE
+https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.SWANuG4PSGc87SlDJtm3KgAAAA&pid=Api&P=0&w=448&h=162" group-title="24/7",Movies
 http://51.158.190.97/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PdLjy8k.png" group-title="24/7 VIETNAMESE",Tom Cruise Movies (Opt-1)
 https://ws.hls.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.m3u8
 
@@ -534,13 +607,8 @@ https://stream.allsprk.tv/live/8/index.m3u8
 #EXTINF:-1,Random 9
 https://stream.allsprk.tv/live/9/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="JAPAN",Japanet Channel DX
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 #EXTINF:-1,XD Tokyo
 https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" group-title="24/7 PLUTO TV",Eye Candy
-http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1 tvg-logo="https://img.reelgood.com/content/movie/fc17b8b7-a927-4b69-bf0f-70a96c3da9ae/poster-780.jpg" group-title="MOVIES",Teenage Mutant Ninja Turtles The Movie (1990)
 http://www.deadlyblogger.com/NewRelease/tmnt1.mp4

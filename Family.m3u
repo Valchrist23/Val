@@ -4,15 +4,6 @@
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.5hQwvx8mDoId8mfiBSNL8AHaEo&pid=Api&P=0&w=257&h=161" group-title="Demo",FishTank
 https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/mid/c.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal4televisa.png" group-title="BC",TV 4 Mexicali
-https://youtu.be/yVQbhl78nWs
-
-#EXTINF:-1 tvg-logo="http://img4.wikia.nocookie.net/__cb20140416005326/logopedia/images/2/26/Logotipo_TelevisaTijuana.png" group-title="BC",Televisa Tijuana
-https://youtu.be/wm_-uPsRq84
-
-#EXTINF:-1 tvg-logo="https://2017.sdlatinofilm.com/wp-content/uploads/sites/21/2017/03/logo-sintesis-2017-fondo-blanco.png" group-title="BC",Sintesis
-https://video-weaver.lhr03.hls.ttvnw.net/v1/playlist/CuQE7ABc2KUyZqq10IKxsVCHVoFJ3QNb5l38GbAjRbFR-R_DXNL9FQFBEufy_FMWO9-u583K4L7lTsZVgOlB2fgqY3BJkq0-B-AJHpGKc0UtqaSY4DheOYxuLH823HuWbL39h_dkWitemgrb36SgCm1cf6XY3Ktm4EK64K7q2BKg2sQwqCKC0ESq22Svg1Jy00XzfWbAKHJRd8843uGBsjqlKIcmfHUXjvUXMaQo9gkkxiwKNS0M1Ki_k19otEKMrwmb_DroHQ14aOpbYrI0DKlD4xitkmuG_1vPQKHIo17yhjVsqlpjw76S4lYOy4vj4xVEi1-WZ89qsthBoqTVLbUIXtrmIf4w38edmKS9tq9hdL5CTMk0W_B-grSB2rzPrW35cwF2F-xA80j-mMDx_8XEp1lIvqYiexw7PN8rZCIrYC15U3bmbAb8ZKlVu_Z-wXOgLkASQOl6oXpfea2X8u7U-fDCeb8VaQItddzoFE7Vt2FlFEOAmN4Aq7SwWVhLqcK6PaBLgSSzBFGpTKXd7ZcfCZwITmEJMztVxRZC3wOpP44DeBmoW4tNHnRPBAynsIHx9L-NaBkxx2C49JRXgcDimRgPGYQR5eO-pm4Xsw-jxpRqtDSG39uKuPTKaKN-taVSBWYV60BRGzb6DpQaMeNzTVeV5zS6SCVWrrrZ7CT4v6XidmRCBvBxyJ6tKIkUI5QIACIGTViZlgtpJ89hf9djk6_xhBcxUcfKgptJuq7rV4fGwbohnfS1rrLSMe_f7F0I_pvvDtUHiSwS8u9KHWHrcNxi75Ab4Xc1x7VxKtl4ujW5xBCQEhDjLgtBTAB711Hlt6b6t_CNGgw-wXHcQnGDW7wyQ-Y.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="US",Harley Davidson
 https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
 
@@ -40,7 +31,6 @@ https://5e50264bd6766.streamlock.net/canal222/smil:canal222.smil/chunklist_w1740
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1200px-Logo_Univision_2013.svg.png" group-title="LAT",Univision
-http://ul.cdn946.net:8080/hls/th9y8suwvc.m3u8?s=sl1klxKDsu3vZ1UvdmBXWQ&e=1597215762
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="LAT",a+
 https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
@@ -49,15 +39,11 @@ https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-name="Antena 3" tvg-id="" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="ES",Antena 3
-https://livestartover-i.akamaized.net/antena3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",TVE
-https://hlsliveamdgl7-lh.akamaihd.net/hlslive_1@134665/master.m3u8
-
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_TVE_%281991-2008%29.svg/1024px-Logo_TVE_%281991-2008%29.svg.png" group-title="ES",RTVE
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@120903/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="ES",StarTVE
 
@@ -102,7 +88,7 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/maste
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/782px-Food_Network_Logo.svg.png" group-title="Cooking",Food Network
 
 #EXTINF:-1 tvg-logo="http://nutricionenlared.com/web/wp-content/uploads/2013/07/logo-verde.jpg" group-title="Cooking",El Gourmet
-http://23.237.22.122:8577/live/IPTVDNS.0507828/HCvMMO5E9z7609/3206.m3u8?token=GENYUUEOGwkbCVdVBwQOClIMBAQNUlYDAgVXDAxWAARUVQVSUFQOAVsbGRZER0pWAlhqXVxDWwMDBlAZFxARVBE+WVQQXBsCDAoFDAMRFBEXXFhRGltRHBNGD1EXX0ADUFcDBhBKG1ZBTVBGWVJUbAdQQ11bBEMKX0MKWRlHDV88BVVdUwhdEQMbBRYbEVFAExcPWk0NDRwTVA9BRwQWVEFbEgUCVwwRFRtWW0JdTEEaFw8WdTlDHBNTHkFQCxFYDA8SChALCkYBGxkWXkBnQQZGQUZdAAxVQxRcFwRHThMOAEhvUQlXXVxaQV1YXUsRWRcABBpNQ11eWA9BWhc9QQoFEgoQVwkHAAsXSQ==
+
 
 #EXTINF:-1 tvg-logo="https://www.outdoorcooking.com/skin/frontend/outdoorcooking/default/images/oc-logo-simp.png" group-title="Cookingy",Out Door Cooking
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8

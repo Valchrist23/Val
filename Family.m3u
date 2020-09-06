@@ -518,9 +518,6 @@ https://www.youtube.com/watch?v=5F_kbM2DSpY
 #EXTINF:-1, Movies8 24/7
 https://www.youtube.com/watch?v=UbmXX4djv2M
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="LAT",VoA TV
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.wowway.com/assets/img/WOW_Logo_only.png" group-title="LAT", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 

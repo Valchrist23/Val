@@ -1,7 +1,7 @@
 
 ﻿﻿#EXTM3U
  
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.5hQwvx8mDoId8mfiBSNL8AHaEo&pid=Api&P=0&w=257&h=161" group-title="Demo",FishTank
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.5hQwvx8mDoId8mfiBSNL8AHaEo&pid=Api&P=0&w=257&h=161" group-title="US",FishTank
 https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/mid/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MpFsg-SeIew/maxresdefault.jpg" group-title="US",Harley Davidson
